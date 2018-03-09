@@ -1,0 +1,41 @@
+*{
+    margin:0;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+
+
+.first{
+    position:absolute;
+    width:25%;
+    height:60%;
+    background:red;
+}
+
+
+.second{
+    position:absolute;
+    width:25%;
+    left:25%;
+    height:60%;
+    background:green;
+}
+
+.third{
+    position:absolute;
+    width:25%;
+    left:50%;
+    height:60%;
+    background:grey;
+}
+
+.fourth{
+    position:absolute;
+    width:25%;
+    left:75%;
+    height:60%;
+    background:gold;
+}

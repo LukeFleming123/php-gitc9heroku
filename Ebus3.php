@@ -29,14 +29,14 @@ session_start()
         <header>
             <div class="container">
                 
-                <img class="logo" src="../Images/company_logo_trans.png">
+                
                 
                 <nav>
                     <ul>
-                        <li><a href="shophome.html">Shop Home</a></li>
-                        <li><a href="about_cloud.html">About Cloud</a></li>
-                        <li><a href="products.html">Products</a></li>
-                        <li><a href="../homepage.html">Personal Website</a></li>
+                        <li><a href="shophome.html">Shop</a></li>
+                        <li><a href="homepage.html"></a>Home</li>
+                        <li><a href="aboutproductspage.html">Products</a></li>
+                        
                     </ul>
                 </nav>
                 
@@ -86,9 +86,7 @@ session_start()
                
                 
                 
-            </p>
             
-            <a class="home_btn" role="button" href="shophome.html">Home</a>
         </div>
         
         <!-- Displaying information of ficticous company-->

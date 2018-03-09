@@ -6,22 +6,10 @@
       
         <title>Select Product</title>
         
-        <!--jQuery-->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/javascript" src="cost_calc.js"></script>
         
-        <!--Stylesheets -->
-        <link rel="stylesheet" href="shop_navbar.css" type="text/css"/>
-        <link rel="stylesheet" href="Ebus.css" type="text/css"/>
+       
         
-        <!-- Setting the webpage font -->
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
         
-        <!-- Setting webpage favicon -->
-        <link rel="shortcut icon" type="image/ico" href="Images/favicon.ico">
-        
-        <!-- Google icons -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     </head>
     
     <body>
@@ -29,14 +17,13 @@
         <header>
             <div class="container">
                 
-                <img class="logo" src="../Images/company_logo_trans.png">
+               
                 
                 <nav>
                     <ul>
-                        <li><a href="shophome.html">Shop Home</a></li>
-                        <li><a href="about_cloud.html">About Cloud</a></li>
-                        <li><a href="products.html">Products</a></li>
-                        <li><a href="../homepage.html">Personal Website</a></li>
+                       <li><a href="shophome.html">Shop</a></li>
+                        <li><a href="homepage.html"></a>Home</li>
+                        <li><a href="aboutproductspage.html">Products</a></li>
                     </ul>
                 </nav>
                 
@@ -44,10 +31,7 @@
         </header>
         
         <!-- Adding page content -->
-        <div class="ebus_content">
-            <div class="changing_pic">
-              <img id="pic_test" src="../Images/salesforce_logo.png">
-            </div>
+       
             
             <h1>Select a Product</h1>
                 
@@ -134,9 +118,8 @@
         <!-- Displaying copyright information -->
         <footer class="ebus_copyright">
             <p>
-                <small>&copy; Copyright 2006-2018 Weightless Ltd. All rights reserved. Various trademarks held by their respective owners.</small>
-                <br>
-                <small>Weightless.com Limited, 29 Fake Street, Cork, Co. Cork, Ireland, A11 B22. General Enquiries: +353 1234567 | Fax: +353 1234567 | Sales: + 353 86 1234567</small>
+                
+                <small>Cloudhub is a ficticous company</small>
             </p>
         </footer>
     </body>
